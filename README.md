@@ -1,7 +1,7 @@
-# Project Name : **Developer landing Page !** 
+# Project Name : **Street Style Landing Page !** 
 ![badge](https://img.shields.io/badge/iNeuron-LCO-green) ![badge](https://img.shields.io/badge/Hitesh--Choudhary-Full%20Stack%20Javascript%20Course-orange)
 
-This project developed with pure HTML and CSS mainly focusing on positions.
+>This project developed with pure HTML and CSS mainly focusing on positions.
 
 <br/>
 
@@ -17,4 +17,4 @@ This project developed with pure HTML and CSS mainly focusing on positions.
 
 ### You can Check it Live on Below Link :
 
-[Live Link !]()
+[Live Link !](https://new-street-style-landing.netlify.app/)
