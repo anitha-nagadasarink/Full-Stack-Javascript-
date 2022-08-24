@@ -13,7 +13,7 @@
 
 ### Demo :
 
-![Web Site Image](./Assets/demo.PNG)
+![Web Site Image](https://github.com/anitha-nagadasarink/Street-Style-Landing-Page-/blob/HTML-CSS-Projects/assets/demo.PNG)
 
 ### You can Check it Live on Below Link :
 
